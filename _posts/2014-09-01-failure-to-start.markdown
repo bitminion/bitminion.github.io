@@ -9,7 +9,7 @@ I often find, professionally, that I am better at working within existing system
 
 I often encounter a mental block when it comes to creating new things. Naming is often a problem which can trip me up for a while, or figuring out where to start on a new problem. Perhaps it is a fear of making mistakes that will live a long time? Or some kind of very critical part of my subconsious that, over the years, has witnessed other people who have a natural talent for "starting well" that I definitely lack.
 
-Anyways, to illustrate what I mean, I've been threatening to write this blog for weeks. I thought I could overcome the mental block of starting something new by embracing a JFDI mentality (just fucking do it). The honest truth is that noone I don't already know will ever read these ramblings. And many people I already know won't read it unless I ask them to.
+Anyways, to illustrate what I mean, I've been threatening to write this blog for weeks. I thought I could overcome the mental block of starting something new by embracing a JFDI mentality (just fucking do it). The honest truth is that no one I don't already know will ever read these ramblings. And many people I already know won't read it unless I ask them to.
 
 So, I started with a little notebook, my favorite place to work in Cambridge, and some coffee. Pretty soon I had a big list of things I wanted to make and a plan of attack that I felt embraced my JFDI approach.
 
