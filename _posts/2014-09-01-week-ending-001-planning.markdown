@@ -11,22 +11,30 @@ So I started writing a long list, all about the type of game I would like to mak
 
 Here is the list:
 
+*	Browser LBP
+*	HTML, CSS, Javascript
+*	Platform interfaces / abstractions
+*	Promises, async
+*	Accounts w/ external identity
+*	Persistent, sync, multiplayer, deterministic, replays
+*	Tests. unit & functional
+*	Share: tutorials, challenges, perfect/secret endings
+*	Forums, feedback on everything, karma
+*	Bounties & voting on development
+*	0 iteration time
+*	Always, CT, downtime = new test
+*	Touch controls
+*	Tutorial (PVZ, heartstone, dota2)
+*	Opt-in feature branches
+*	QA via forums/karma?
+*	Offline app
+*	Development notes, times
+*	Public API
+*	Forking / Merging assets. Authors. Attribution
 
+Also, I made a little roadmap list:
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
+1.	JFDI. Something running, all garbage
+2.	Hosting garbage, CI/deployed
+3.	Write it down. Blog about it
+4.	Test the garbage, Example unit and functional test
