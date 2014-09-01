@@ -7,7 +7,7 @@ categories: buildnotes
 
 When I started writing this down in my planning notebook, the first build (build 0001) was called bare minimum and was all about a spinning cube and some UI.
 
-Since then my priorities have changed and I'm starting with by writing prose, not code.  So! the build notes for my first build are:
+Since then my priorities have changed and I'm starting with by writing prose, not code. So! the build notes for my first build are:
 
 *	Static HTML
 *	Jekyll, github.io
