@@ -15,7 +15,9 @@
 
     {% include footer.html %}
 
+    {% if site.analytics == "google" %}
     {% include google_analytics.html %}
+    {% endif %}
     </body>
 
 </html>

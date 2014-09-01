@@ -7,3 +7,7 @@ github_username: bitminion
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# analytics settings
+analytics: google
+analytics_id: UA-54374405-1
