@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing more"
+title:  "Failure to start"
 date:   2014-09-01 13:19:28
 categories: writing blog
 ---
