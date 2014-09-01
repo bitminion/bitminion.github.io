@@ -1,9 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-08-24 14:14:28
-categories: jekyll update
+title:  "Week 001 - Planning"
+date:   2014-09-01 12:54:28
+categories: planning weekly
 ---
+
+A few weeks ago I wrote a long list of ideas down on paper. I really want to work on programming projects outside of work, and I really want to practice writing prose, rather than only writing code.
+
+So I started writing a long list, all about the type of game I would like to make. As it turned out, the list turned out to be a bunch of ideas about how to make a game, and it failed to talk about anything game related at all. Oh well!
+
+Here is the list:
+
+
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
